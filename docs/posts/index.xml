@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>altatrans</title>
-    <link>https://trolleway.github.io/altatrans/</link>
-    <description>Recent content on altatrans</description>
+    <title>Posts on altatrans</title>
+    <link>https://trolleway.github.io/altatrans/posts/</link>
+    <description>Recent content in Posts on altatrans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 2.0 International License.</copyright>
-    
-	<atom:link href="https://trolleway.github.io/altatrans/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 04 Dec 2018 02:05:24 +0300</lastBuildDate>
+    <atom:link href="https://trolleway.github.io/altatrans/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vidnoe</title>
@@ -22,6 +17,8 @@
       
       <guid>https://trolleway.github.io/altatrans/posts/vidnoe/</guid>
       <description>vidnoe</description>
+      <content type="html"><![CDATA[<p>vidnoe</p>
+]]></content>
     </item>
     
   </channel>
