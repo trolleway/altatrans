@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>altatrans</title>
+    <link>https://trolleway.github.io/altatrans/</link>
+    <description>Recent content on altatrans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 2.0 International License.</copyright>
+    
+	<atom:link href="https://trolleway.github.io/altatrans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vidnoe</title>
+      <link>https://trolleway.github.io/altatrans/maps/vidnoe/</link>
+      <pubDate>Tue, 04 Dec 2018 02:05:24 +0300</pubDate>
+      
+      <guid>https://trolleway.github.io/altatrans/maps/vidnoe/</guid>
+      <description>vidnoe</description>
+    </item>
+    
+  </channel>
+</rss>
